@@ -1,0 +1,14 @@
+'''
+3. Write a Python program to display the first and last colours from the following list.
+color_list = ["Red","Green","White" ,"Black"]
+'''
+
+color_list = ["Red","Green","White" ,"Black"]
+print("first=",color_list[0],"  last=",color_list[3])
+
+'''
+output=
+
+first= Red   last= Black
+
+'''
